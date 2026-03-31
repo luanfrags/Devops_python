@@ -1,7 +1,7 @@
 # dados fictícios
-nome = "João"
-idade = 16
-nota = 8.5
+nome = "Luan"
+idade = 26
+nota = 9.5
 
 # criando o relatório
 with open("relatorio.txt", "w", encoding="utf-8") as arquivo:
