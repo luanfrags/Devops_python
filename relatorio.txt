@@ -1,5 +1,5 @@
 === RELATÓRIO ===
-Nome: Luan
+Nome: luan
 Idade: 26
-Nota final: 9.5
+Nota final: 8.0
 Status: Aprovado

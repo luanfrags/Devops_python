@@ -1,7 +1,7 @@
-# dados fictícios
-nome = "Luan"
-idade = 26
-nota = 9.5
+# pedindo dados ao usuário
+nome = input("Digite o nome: ")
+idade = int(input("Digite a idade: "))
+nota = float(input("Digite a nota final: "))
 
 # criando o relatório
 with open("relatorio.txt", "w", encoding="utf-8") as arquivo:
